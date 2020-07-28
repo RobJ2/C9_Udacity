@@ -1,3 +1,2 @@
 # C9_Udacity
-Development environment for Operationalise a Machine Learning | Udacity
-# hello
+[![CircleCI](https://circleci.com/gh/RobJ2/C9_Udacity.svg?style=svg)](https://circleci.com/gh/RobJ2/C9_Udacity)
